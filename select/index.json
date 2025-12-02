@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夜中の風船 Mark II",
+  "base_artist": "NEE",
+  "createdAt": "2025-12-02T12:22:54.514768Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜中の風船 Mark II",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_夜中の風船_Mark_II_NEE.txt"
+    }
+  ]
+}
